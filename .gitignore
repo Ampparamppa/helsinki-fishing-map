@@ -222,3 +222,6 @@ __marimo__/
 CLAUDE.md
 **/CLAUDE.md
 .claude/
+
+# Private planning docs
+docs/spec.md
